@@ -2,12 +2,11 @@
 This project involves the development of a comprehensive suite of sales analytics reports for AtliQ Hardware, utilizing the advanced capabilities of MS Excel. These reports are designed to provide in-depth insights into key aspects of sales performance, tailored to the specific needs of various organizations
 ## Sales Report :
 
-
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a Customer Performance Report 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between market performance and sales targets 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -44,3 +43,9 @@ This project involves the development of a comprehensive suite of sales analytic
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+![LOAN REPAYMENT 22](https://github.com/user-attachments/assets/49a7f29a-2eea-4cc3-b1b4-9e7deeb2798a)
+
+![SCENARIO PLANNING 22](https://github.com/user-attachments/assets/fb83c333-0b3f-4e1b-890d-214cf03de58c)
+
+*Kindly, contact me for the raw files of these work*
